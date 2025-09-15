@@ -30,7 +30,7 @@ jobs:
           extended: true
 
       - name: Build site
-        run: hugo --minify --baseURL "https://USERNAME.github.io/REPO/"
+        run: hugo --minify --baseURL "https://shelbysnapp.github.io/chebsite/"
 
       - name: Deploy to GitHub Pages
         if: github.ref == 'refs/heads/main'
