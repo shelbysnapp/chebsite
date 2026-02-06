@@ -102,8 +102,3 @@ pagination.pagerSize = 5
           identifier = "lists"
           name = "Lists"
           url = "/lists/"
-
-      [[languages.en.menu.main]]
-        identifier = "film"
-        name = "Film Series"
-       url = "/film/"
