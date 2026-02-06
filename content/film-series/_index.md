@@ -1,6 +1,7 @@
 +++
 date = '2025-09-15T21:36:24+02:00'
 title = 'Welcome to the Italian Film Project'
+weight = 1
 +++
 
 In this series, I plan to work my way through the List of 100 Italian Films to be Saved. 
